@@ -3,11 +3,12 @@
 
 **Some fun facts about me:**
 
-- 🔭 I’m currently studying Business Information Technolofy in Haaga-Helia UAS.
+- 🔭 I’m currently studying Business Information Technology in Haaga-Helia UAS.
 - 🌱 I’m currently learning Javascript, AWS, SQL, React and UX Designs.
 - 👯 I’m looking to work with companies where i can share my skills and be asset to them.
-- 💬 Ask me anything you want to know about me and my qualifications.
+- 💬 Ask anything you want to know about me and my qualifications.
 - 📫 How to reach me:  You can reach me via deepti.kandel@hotmail.com.
 - 😄 Pronouns: SHE
-- ⚡ Fun fact: I like swimming. For eg. swimming in lakes, codes, new technologies, new places and so on.
+- ⚡ Fun fact: I like to design rooms.
+
 
