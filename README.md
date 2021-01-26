@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning Javascript, AWS, SQL, React and UX Designs.
 - 👯 I’m looking to work with companies where i can share my skills and be asset to them.
 - 💬 Ask anything you want to know about me and my qualifications.
-- 📫 How to reach me:  You can reach me via deepti.kandel@hotmail.com.
+- 📫 You can reach me via deepti.kandel@hotmail.com and https://www.linkedin.com/in/deeptikandel/
+
 - 😄 Pronouns: SHE
 - ⚡ Fun fact: I like to design rooms.
 
