@@ -4,8 +4,8 @@
 **Some fun facts about me:**
 
 - 🔭 I cooked Business Information Technology from Haaga-Helia UAS.
-- 🌱 I'm baking Javascript, AWS, SQL, React and UX Designs.
-- 👯 I’m looking to serve a platter full of different tech skills to companies.
+- 🌱 Key skills are Javascript, AWS, SQL, React.js, PhP and UX/UI Designs.
+- 👯 I’m looking to serve companies with my different tech skills.
 - 💬 Ask anything you want to know about me and my qualifications.
 - 📫 You can reach me via deepti.kandel@hotmail.com and https://www.linkedin.com/in/deeptikandel/
 - 😄 Pronouns: SHE
