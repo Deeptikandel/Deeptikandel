@@ -2,9 +2,9 @@
 
 <p>An ambitious problem solver who would like to join the team of like minded developers. Has experience of creating both logical and complex web solutions. I am thorough and precise in everything i do and i love what i am doing.</p>
 
-- 🌱 I’m currently learning **Full Stack Web Development.**
+- 🌱 I’m a **Software Developer.**
 
-- 👨‍💻 Most of my projects are available at: [https://deeptikandel.netlify.app/](https://deeptikandel.netlify.app/)
+- 👨‍💻 Know more about me at: [https://deeptikandel.netlify.app/]
 
 - 📫 You can reach me at:  **deepti.kandel@hotmail.com and https://www.linkedin.com/in/deeptikandel/.**
 
