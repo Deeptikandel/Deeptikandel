@@ -4,7 +4,7 @@
 
 - 🌱 I’m a **Software Developer.**
 
-- 👨‍💻 Know more about me at: [(https://deeptikandel.github.io/Deepti-Portfolio/)]
+- 👨‍💻 Know more about me at: (https://deeptikandel.github.io/Deepti-Portfolio/)
 
 - 📫 You can reach me through:  **deeptikandel1@gmail.com and https://www.linkedin.com/in/deeptikandel/.**
 
