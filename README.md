@@ -4,9 +4,9 @@
 
 - 🌱 I’m a **Software Developer.**
 
-- 👨‍💻 Know more about me at: [https://deeptikandel.netlify.app/]
+- 👨‍💻 Know more about me at: [(https://deeptikandel.github.io/Deepti-Portfolio/)]
 
-- 📫 You can reach me at:  **deepti.kandel@hotmail.com and https://www.linkedin.com/in/deeptikandel/.**
+- 📫 You can reach me through:  **deeptikandel1@gmail.com and https://www.linkedin.com/in/deeptikandel/.**
 
 - ⚡ Fun fact:  **I love plants🌱**
 <h3 align="left">Connect with me:</h3>
